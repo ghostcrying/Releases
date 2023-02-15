@@ -3,20 +3,20 @@
     "pins": [
       {
         "package": "Require",
-        "repositoryURL": "https://github.com/JohnSundell/Require.git",
+        "repositoryURL": "https://github.com/ghostcrying/Require.git",
         "state": {
           "branch": null,
-          "revision": "7cfbd0d8a2dede0e01f6f0d8ab2c7acef1df112e",
-          "version": "2.0.1"
+          "revision": "f1e22ad5e4de3b8fb27e02ad8c96148f66abe460",
+          "version": "4.0.1"
         }
       },
       {
         "package": "ShellOut",
-        "repositoryURL": "https://github.com/JohnSundell/ShellOut.git",
+        "repositoryURL": "https://github.com/ghostcrying/ShellOut.git",
         "state": {
           "branch": null,
-          "revision": "d3d54ce662dfee7fef619330b71d251b8d4869f9",
-          "version": "2.2.0"
+          "revision": "6375f624cd83652064542a246cf4e6a6381e494f",
+          "version": "4.0.1"
         }
       }
     ]

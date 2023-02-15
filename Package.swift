@@ -14,8 +14,8 @@ let package = Package(
         .library(name: "Releases", targets: ["Releases"])
     ],
     dependencies: [
-        .package(url: "https://github.com/JohnSundell/ShellOut.git", from: "2.0.0"),
-        .package(url: "https://github.com/JohnSundell/Require.git", from: "2.0.0")
+        .package(url: "https://github.com/ghostcrying/ShellOut.git", from: "4.0.1"),
+        .package(url: "https://github.com/ghostcrying/Require.git", from: "4.0.1")
     ],
     targets: [
         .target(
